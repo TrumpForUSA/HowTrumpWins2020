@@ -1,3 +1,5 @@
+# HowTrumpWins2020 - License
+
 ## creative commons
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
