@@ -13,5 +13,5 @@ President Trump should immediately adopt this platform, so that he, and the rest
 
 
 
-###### File License
+## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
