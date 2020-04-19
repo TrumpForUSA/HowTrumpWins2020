@@ -20,7 +20,15 @@ A universal basic income that ensures no Americans have to live in poverty, whil
 
 > ***Trump Universal Income*** is protected from creditors, and ranges from $1,000 to $4,500 per month, per citizen - and does not disrupt or replace Social Security (or other federal government programs).
 
-### *Equalizing The American Dream*
+### *Equalizing The American Dream Bonus*
+Bonus ***Trump Universal Income*** for citizens who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
+
+## Platform Highlights: Education
+
+### *Trump Education Loans*
+A government backed student loan program that offers deferred payments, zero interest and full loan forgiveness after earning income in highly in-demand careers (like healthcare) for a period of 10 years.
+
+> ***Trump Education Loans*** will allow, for example, those wanting to become doctors to obtain loans to pay for tuition and expenses - while repayments (and interest) are deferred until the completion of the education program. Then, while employed in the learned career - repayments (and interest) will continue to be deferred. After 10 years of employment in the learned career - the entire loan will be forgiven, allowing many Americans, for example, to become doctors for $0.
 
 ## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
