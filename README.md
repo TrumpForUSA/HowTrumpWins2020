@@ -67,12 +67,19 @@ Similar to the fixed high-speed broadband access requirements, wireless carriers
 
 > Carriers must also provide unlimited data at "2G" speeds for tracking and other integrated devices for no more than $5 per month (per line).
 
-Nationwide wireless carriers (and regional carriers) must provide coverage in excess of 97% of land area within their stated coverage area, and must provide 100% coverage (including indoor coverage) of all land within five miles of all marked County, State, US and Interstate highways (including over water).
+Nationwide wireless carriers (and regional carriers) must provide coverage in excess of 97% of land area within their stated coverage area, and must provide 100% coverage (including indoor coverage) of all land within five miles of all marked county, state, US and interstate highways (including underground and over water).
 
 ### *2nd Amendment*
 A uniform, nationwide concealed carry framework - which provides for universal background checks, fingerprinting and mandatory firearm training - to guarantee the right to be armed nationwide, while keeping firearms away from those ineligible to own them.
 
 Creation of a nationwide, uniform purchasing and possession process to ensure access to constitutionally protected firearms, magazines and accessories to those with issued concealed carry permits.
+
+
+## Platform Highlights: Social Issues
+
+### *Child Care*
+
+### *Federal Abortion Restrictions*
 
 
 ## Platform Highlights: Bankruptcy Reform
