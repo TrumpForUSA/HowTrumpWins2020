@@ -22,12 +22,12 @@ A universal basic income that ensures no Americans have to live in poverty, whil
 > ***Trump Universal Income*** is protected from creditors, and ranges from $1,000 to $4,500 per month, per citizen - and does not disrupt or replace Social Security (or other federal government programs).
 
 ### *Equalizing The American Dream Bonus*
-Bonus ***Trump Universal Income*** for citizens who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
+Bonus ***Trump Universal Income*** for Americans who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
 
-> Based on residential zip code (among other factors), citizens will be eligible for up to $500 a month bonus income through ***TUI***.
+> Based on residential zip code (among other factors), Americans will be eligible for up to $500 a month bonus income through ***TUI***.
 
 ### *Rewarding Employment Bonus*
-Bonus ***Trump Universal Income*** for citizens who are employed (including independent contractors), with an additional bonus of up to $3,000 per month based on a sliding scale up to the first $100,000 a year of earned income.
+Bonus ***Trump Universal Income*** for Americans who are employed (including independent contractors), with an additional bonus of up to $3,000 per month based on a sliding scale up to the first $100,000 a year of earned income.
 
 ### *Trump Family Protection*
 An extension to ***TUI***, providing life insurance coverage to named beneficiaries in an amount equal to a historical average of total ***TUI*** payments.
@@ -40,7 +40,7 @@ An extension to ***TUI***, providing life insurance coverage to named beneficiar
 ### *Trump Education Loans*
 A government backed student loan program that offers deferred payments, zero interest and full loan forgiveness after earning income in highly in-demand careers (like healthcare), as well as "critical infrastructure" and "essential service" careers, for a period of 10 years.
 
-> ***Trump Education Loans*** will allow, for example, those wanting to become doctors to obtain loans to pay for tuition and expenses - while repayments (and interest) are deferred until the completion of the education program. Then, while employed in the learned career - repayments (and interest) will continue to be deferred. After 10 years of employment in the learned career - the entire loan will be forgiven, allowing many Americans, for example, to become doctors for $0.
+> ***Trump Education Loans*** will allow, for example, those wanting to become doctors to obtain loans to pay for tuition and expenses - while repayments (and interest) are deferred until the completion of the education program. Then, while employed in the learned career - repayments (and interest) will continue to be deferred. After 10 years of employment in the learned career - the entire loan will be forgiven, allowing many Americans, to become doctors for $0.
 
 
 ## Platform Highlights: Healthcare
@@ -52,8 +52,27 @@ A *replacement* nationwide health insurance system that expands the current Medi
 
 For those aged 18 to 65, ***Trump Universal Care*** is available for a fixed fee depending on age, and will provide the same coverage benefits. However, children turning 18 will receive five years worth of ***TUC*** coverage free of charge, to be used anytime until 65. Additionally, for each year of earned income in excess of $25,000 provides an additional two years of ***TUC*** coverage free of charge.
 
-> Citizens will only have to achieve 21 years of earned income in excess of $25,000 to receive ***TUC*** benefits free of charge, for life.
+> Americans will only have to achieve 21 years of earned income in excess of $25,000 to receive ***TUC*** benefits free of charge, for life.
 
+
+## Platform Highlights: Preservation of Rights
+
+### *Internet as a Utility*
+A nationwide requirement that every residence has access to fixed high-speed broadband access in excess of 25 Mbps (symmetrical), for no more than $39 per month. Providers may offer additional tiers of service, but may not institute data-caps or throttling.
+
+> 100 Mbps symmetrical service may be no more than $79 per month, and gigabit service may be no more than $129 per month.
+
+### *Wireless Data as a Utility*
+Similar to the fixed high-speed broadband access requirements, wireless carriers utilizing licensed spectrum must provide unlimited data at "4G" speeds for no more than $59 per month (per line), must not throttle data during the first 250GB of monthly usage, must not throttle lower than "3G" speeds, and must provide "hotspot" access to allow data sharing.
+
+> Carriers must also provide unlimited data at "2G" speeds for tracking and other integrated devices for no more than $5 per month (per line).
+
+Nationwide wireless carriers (and regional carriers) must provide coverage in excess of 97% of land area within their stated coverage area, and must provide 100% coverage (including indoor coverage) of all land within five miles of all marked County, State, US and Interstate highways (including over water).
+
+### *2nd Amendment*
+A uniform, nationwide concealed carry framework - which provides for universal background checks, fingerprinting and mandatory firearm training - to guarantee the right to be armed nationwide, while keeping firearms away from those ineligible to own them.
+
+Creation of a nationwide, uniform purchasing and possession process to ensure access to constitutionally protected firearms, magazines and accessories to those with issued concealed carry permits.
 
 ## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
