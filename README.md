@@ -23,6 +23,8 @@ A universal basic income that ensures no Americans have to live in poverty, whil
 ### *Equalizing The American Dream Bonus*
 Bonus ***Trump Universal Income*** for citizens who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
 
+> Based on residential zip code (among other factors), citizens will be eligible for up to $500 a month bonus income through ***TUI***.
+
 ## Platform Highlights: Education
 
 ### *Trump Education Loans*
