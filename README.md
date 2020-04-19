@@ -25,6 +25,12 @@ Bonus ***Trump Universal Income*** for citizens who reside in historically "econ
 
 > Based on residential zip code (among other factors), citizens will be eligible for up to $500 a month bonus income through ***TUI***.
 
+
+### *Rewarding Employment Bonus*
+Bonus ***Trump Universal Income*** for citizens who are employed (including independent contractors), with an additional bonus of up to $3,000 per month based on a sliding scale up to the first $100,000 a year of earned income.
+
+
+
 ### *Trump Family Protection*
 An extension to ***TUI***, providing life insurance coverage to your named beneficiaries in an amount equal to a historical average of total ***TUI*** payments.
 
