@@ -58,7 +58,7 @@ For those aged 18 to 65, ***Trump Universal Care*** is available for a fixed fee
 ## Platform Highlights: Preservation of Rights
 
 ### *Internet as a Utility*
-A nationwide requirement that every residence has access to fixed high-speed broadband access in excess of 25 Mbps (symmetrical), for no more than $39 per month. Providers may offer additional tiers of service, but may not institute data-caps or throttling.
+A nationwide requirement that every residence has access to fixed high-speed broadband access of at least 25 Mbps (symmetrical), for no more than $39 per month. Providers may offer additional tiers of service, but may not institute data-caps or throttling.
 
 > 100 Mbps symmetrical service may be no more than $79 per month, and gigabit service may be no more than $129 per month.
 
@@ -73,6 +73,11 @@ Nationwide wireless carriers (and regional carriers) must provide coverage in ex
 A uniform, nationwide concealed carry framework - which provides for universal background checks, fingerprinting and mandatory firearm training - to guarantee the right to be armed nationwide, while keeping firearms away from those ineligible to own them.
 
 Creation of a nationwide, uniform purchasing and possession process to ensure access to constitutionally protected firearms, magazines and accessories to those with issued concealed carry permits.
+
+
+## Platform Highlights: Bankruptcy Reform
+
+### *Personal Chapter 7/11/13 Bankruptcy Changes*
 
 ## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
