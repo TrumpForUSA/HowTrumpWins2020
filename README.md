@@ -95,12 +95,25 @@ A federal program requiring citizens and the government work together to ensure 
 ### *War On Drugs*
 
 ### *Federal Abortion Restrictions*
-Federal prohibition on late-term abortions (third trimester), in all situations except when the health of the mother is in jeopardy, with the necessity of utilizing the USA Adoption Exchange for those babies that will survive outside of the womb after a medically necessary late-term abortion.
+Federal prohibition on late-term abortions (third trimester), in all situations except when the health of the mother is in jeopardy, with the necessity of utilizing the ***USA Adoption Exchange*** for those babies that will survive outside of the womb after a medically necessary late-term abortion.
 
-Creation of the ***USA Adoption Exchange*** to match parents with those mothers who have unwanted pregnancies, to help prevent abortions within the first and second trimesters. Additional ***TUI*** bonus income will be made available to mothers who will carry their unwanted pregnancy to term for adoption.
+Creation of the ***USA Adoption Exchange*** to match parents with those mothers who have unwanted pregnancies, to help prevent abortions within the first and second trimesters. Additional ***TUI*** bonus income will be made available to mothers who will carry their unwanted pregnancy to term for adoption, instead of aborting.
 
 
 ## Platform Highlights: MADE In America
+
+### *Medical supplies*
+All equipment and disposables utilized in any medical field (including veterinary medicine) must be produced in the United States, sourced with raw materials produced in the United States. This includes, but is not limited to, all medicines, furniture, fixtures, PPE, general supplies, surgery equipment and technology that is purchased by any hospital or private medical practice.
+
+> The government will be responsible for obtaining critical elements and/or other critical materials that not naturally available in the United States, and must keep at least a 10-year supply of said elements at all times for manufacturers to purchase. Private markets may instead supply these materials - but the 10-year government run supply will still remain.
+
+### *Automobiles*
+All companies selling automobiles must assemble at least 75% of their vehicles within the United States. Half of these vehicles must have at least 50% of their parts (on a cost adjusted basis) manufactured in the United States, while the other half must contain 100% of their parts manufactured in the United States.
+
+### *Appliances*
+Similar to the automobile requirements, major appliance manufacturers must follow the same assembly and parts requirements. This includes refrigerators, dishwashers, washers & dryers, ranges, wall ovens, rage hoods, cooktops and microwaves.
+
+Additionally, heating and air conditioning units must meet the same requirements.
 
 
 ## Platform Highlights: Bankruptcy Reform
