@@ -87,11 +87,15 @@ Provides bonus ***TUI*** income for a period of three months after the birth (or
 
 > Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of six months after the birth of a child.
 
-### *Federal Abortion Restrictions*
-
-### *Disaster Preparedness*
+### *Disaster Preparedness - USA READY*
+A federal program requiring citizens and the government work together to ensure the nation is ready to handle any crisis. Individual households will be required to keep a 60 day supply of shelf-stable food for all occupants, in addition to 100 gallons of potable water.
 
 ### *War On Drugs*
+
+### *Federal Abortion Restrictions*
+Federal prohibition on late-term abortions (third trimester), in all situations except when the health of the mother is in jeopardy, with the necessity of utilizing the USA Adoption Exchange for those babies that will survive outside of the womb after a medically necessary late-term abortion.
+
+Creation of the ***USA Adoption Exchange*** to match parents with those mothers who have unwanted pregnancies, to help prevent abortions within the first and second trimesters. Additional ***TUI*** bonus income will be made available to mothers who will carry their unwanted pregnancy to term for adoption.
 
 
 ## Platform Highlights: MADE In America
