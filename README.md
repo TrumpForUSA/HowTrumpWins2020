@@ -77,9 +77,24 @@ Creation of a nationwide, uniform purchasing and possession process to ensure ac
 
 ## Platform Highlights: Social Issues
 
-### *Child Care*
+### *Trump Child Care*
+An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
+
+> Provides each child their own ***TCC*** account, available to their parents (or guardians), which receives $400 per month to be spent on eligible activities.
+
+### *Trump Parental Leave*
+Provides bonus ***TUI*** income for a period of three months after the birth (or adoption) of a child, and two months before the birth of a child, in an amount equal to the average monthly employment income for the previous 12 month period.
+
+> Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of six months after the birth of a child.
 
 ### *Federal Abortion Restrictions*
+
+### *Disaster Preparedness*
+
+### *War On Drugs*
+
+
+## Platform Highlights: MADE In America
 
 
 ## Platform Highlights: Bankruptcy Reform
