@@ -88,7 +88,9 @@ Provides bonus ***TUI*** income for a period of three months after the birth (or
 > Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of six months after the birth of a child.
 
 ### *Disaster Preparedness - USA READY*
-A federal program requiring citizens and the government work together to ensure the nation is ready to handle any crisis. Individual households will be required to keep a 60 day supply of shelf-stable food for all occupants, in addition to 100 gallons of potable water.
+A federal program requiring citizens and the government work together to ensure the nation is ready to handle any crisis. Individual households will be required to keep a 60 day supply of shelf-stable food (and basic supplies such as toilet paper and medicine) for all occupants, in addition to 100 gallons of potable water.
+
+> ***TUC*** will provide for longer prescription medication refills to ensure an adequate supply is always on hand for emergencies.
 
 ### *War On Drugs*
 
