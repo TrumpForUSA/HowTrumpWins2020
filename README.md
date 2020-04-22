@@ -105,7 +105,7 @@ Creation of the ***USA Adoption Exchange*** to match parents with those mothers 
 ### *Medical Supplies*
 All equipment and disposables utilized in any medical field (including veterinary medicine) must be produced in the United States, sourced with raw materials produced in the United States. This includes, but is not limited to, all medicines, furniture, fixtures, PPE, general supplies, surgery equipment and technology that is purchased by any hospital or private medical practice.
 
-> The government will be responsible for obtaining critical elements and/or other critical materials that not naturally available in the United States, and must keep at least a 10-year supply of said elements at all times for manufacturers to purchase. Private markets may instead supply these materials - but the 10-year government run supply will still remain.
+> The Federal government will be responsible for obtaining critical elements and/or other critical materials that not naturally available in the United States, and must keep at least a 10-year supply of said elements at all times for manufacturers to purchase. Private markets may instead supply these materials - but the 10-year government run supply will still remain.
 
 ### *Automobiles*
 All companies selling automobiles must assemble at least 75% of their vehicles within the United States. Half of these vehicles must have at least 50% of their parts (on a cost adjusted basis) manufactured in the United States, while the other half must contain 100% of their parts manufactured in the United States.
@@ -113,7 +113,7 @@ All companies selling automobiles must assemble at least 75% of their vehicles w
 ### *Major Appliances*
 Similar to the automobile requirements, major appliance manufacturers must follow the same assembly and parts requirements. This includes refrigerators, dishwashers, washers & dryers, ranges, wall ovens, rage hoods, cooktops and microwaves.
 
-Additionally, heating and air conditioning units must meet the same requirements.
+Additionally, heating and air conditioning units must meet the same requirements, for both residential and commercial use.
 
 
 ## Platform Highlights: Bankruptcy Reform
