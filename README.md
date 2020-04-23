@@ -16,9 +16,15 @@ President Trump can - and will - bring together the left and the right, the youn
 ## New Programs Overview
 | Program | Summary |
 | --- | --- |
-| ***Trump Universal Income*** | A creditor-protected universal income available to all US Citizens, starting at $1,000 per month and maxing out at $4,500 per month with available bonuses. |
-| *Equalizing The American Dream Bonus* | Bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income, up to $500 per month. |
-| *Rewarding Employment Bonus* | Bonus ***TUI*** income for those who are employed (including self-employed) on the first $100,000 a year of earned income, up to $3,000 per month |
+| ***Trump Universal Income*** | Creditor-protected universal income for US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
+| *Equalizing The American Dream Bonus* | Up to $500 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
+| *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning income. |
+| | |
+| ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand and critical infrastructure careers. |
+| | |
+| ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
+
+
 
 ## Platform Highlights: Economy
 
