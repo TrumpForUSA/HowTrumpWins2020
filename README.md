@@ -92,6 +92,8 @@ A federal program requiring citizens and the government work together to ensure 
 
 > ***TUC*** will provide for longer prescription medication refills to ensure an adequate supply is always on hand for emergencies.
 
+Additional requirements will be in place for critical infrastructure and medical providers, including a 60 day supply of medically necessary equipment to better preapre for and handle disasters and other emergencies.
+
 ### *War On Drugs*
 
 ### *Federal Abortion Restrictions*
@@ -119,6 +121,11 @@ Additionally, heating and air conditioning units must meet the same requirements
 ## Platform Highlights: Bankruptcy Reform
 
 ### *Personal Chapter 7/11/13 Bankruptcy Changes*
+Nationwide unlimited homestead protection for primary residences, including any and all payments made into the homestead more than one year before bankruptcy, and all payments derived from ***TUI***. Up to $50,000 of protection for other personal assets, including vehicles, computers, jewelry, firearms, etc.
+
+> Homestead exemption will also allow lived-in primary residences owned by LLCs or multiple family members to be exempted from bankruptcy.
+
+Chapter 13 estates will not include any ***TUI*** benefits, including any bonus income.
 
 ## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
