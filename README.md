@@ -26,7 +26,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | | |
 | ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
 | | |
-| ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. |
+| ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. Improvement of US infrastructure including Interstates with four lanes + autobahn speeds. |
 | | |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
 | *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
@@ -136,6 +136,11 @@ All companies selling automobiles must assemble at least 75% of their vehicles w
 Similar to the automobile requirements, major appliance manufacturers must follow the same assembly and parts requirements. This includes refrigerators, dishwashers, washers & dryers, ranges, wall ovens, rage hoods, cooktops and microwaves.
 
 Additionally, heating and air conditioning units must meet the same requirements, for both residential and commercial use.
+
+### *Our Infrastructure*
+Upgrade of all interstate marked highways to four (4) lanes in each direction, with the left lane reserved for 125+ mph travel through rural areas where conditions warrant. This lane will also be specially constructed for autonomous / self-driving vehicles to operate safely.
+
+> Additional highway improvements include the creation of limited access, high-speed bypasses around major cities.
 
 
 ## Platform Overview: Bankruptcy Reform
