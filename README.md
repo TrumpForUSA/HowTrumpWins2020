@@ -13,7 +13,7 @@ Implementing this platform throughout 2021 for a January 2022 rollout will heal 
 
 President Trump can - and will - bring together the left and the right, the young and the old, for the good of all Americans, by simply adopting this plan; this great vision for the future of America.
 
-## Program Highlights
+## Trump Program Highlights
 | Program | Summary |
 | --- | --- |
 | ***Trump Universal Income*** | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
@@ -22,14 +22,14 @@ President Trump can - and will - bring together the left and the right, the youn
 | ***Trump Child Care*** | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
 | ***Trump Parental Leave*** | Bonus ***TUI*** income for parents from two months before to three months after birth. |
 | | |
-| ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand and critical infrastructure careers. |
+| ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand (healthcare), essential services and critical infrastructure careers. |
 | | |
 | ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
 | | |
 | ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. |
 | | |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
-| *2nd Amendment* | Nationwide concealed carry framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
+| *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
 | | |
 
 
