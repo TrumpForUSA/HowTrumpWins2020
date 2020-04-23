@@ -16,13 +16,17 @@ President Trump can - and will - bring together the left and the right, the youn
 ## New Programs Overview
 | Program | Summary |
 | --- | --- |
-| ***Trump Universal Income*** | Creditor-protected universal income for US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
+| ***Trump Universal Income*** | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
 | *Equalizing The American Dream Bonus* | Up to $500 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
-| *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning income. |
+| *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning employment income. |
+| ***Trump Child Care*** | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
 | | |
 | ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand and critical infrastructure careers. |
 | | |
 | ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
+| | |
+| *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
+| *2nd Amendment* | Nationwide concealed carry framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
 
 
 
@@ -92,7 +96,7 @@ Creation of a nationwide, uniform purchasing and possession process to ensure ac
 ### *Trump Child Care*
 An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
 
-> Provides each child their own ***TCC*** account, available to their parents (or guardians), which receives $400 per month to be spent on eligible activities.
+> Provides each child their own ***TCC*** account, available to their parents (or guardians), which receives $500 per month to be spent on eligible activities.
 
 ### *Trump Parental Leave*
 Provides bonus ***TUI*** income for a period of three months after the birth (or adoption) of a child, and two months before the birth of a child, in an amount equal to the average monthly employment income for the previous 12 month period.
