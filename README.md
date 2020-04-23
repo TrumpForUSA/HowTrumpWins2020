@@ -13,6 +13,12 @@ Implementing this platform throughout 2021 for a January 2022 rollout will heal 
 
 President Trump can - and will - bring together the left and the right, the young and the old, for the good of all Americans, by simply adopting this plan; this great vision for the future of America.
 
+## New Programs Overview
+| Program | Summary |
+| --- | --- |
+| ***Trump Universal Income*** | A creditor-protected universal income available to all US Citizens, starting at $1,000 per month and maxing out at $4,500 per month with available bonuses. |
+| *Equalizing The American Dream Bonus* | Bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income, up to $500 per month. |
+| *Rewarding Employment Bonus* | Bonus ***TUI*** income for those who are employed (including self-employed) on the first $100,000 a year of earned income, up to $3,000 per month |
 
 ## Platform Highlights: Economy
 
@@ -95,6 +101,7 @@ A federal program requiring citizens and the government work together to ensure 
 Additional requirements will be in place for critical infrastructure and medical providers, including a 60 day supply of medically necessary equipment to better preapre for and handle disasters and other emergencies.
 
 ### *War On Drugs*
+Legalize marijuana while fighting the remaining war on drugs armed with additional tools, including the powerful ability to limit or disqualify individuals for ***TUI*** with felony convictions.
 
 ### *Federal Abortion Restrictions*
 Federal prohibition on late-term abortions (third trimester), in all situations except when the health of the mother is in jeopardy, with the necessity of utilizing the ***USA Adoption Exchange*** for those babies that will survive outside of the womb after a medically necessary late-term abortion.
