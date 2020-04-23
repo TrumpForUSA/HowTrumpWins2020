@@ -1,5 +1,6 @@
 # How Trump Wins 2020
 A political platform that will not only guarantee a victory for President Trump (and Republicans) in November - but a win for all Americans for generations to come.
+> No more corporate bailouts - no more pork for lobbyists; it's time **the people** were in charge, and for free markets to decide.
 
 ## Introduction
 Our country and our world has recently changed. This project was started in April to collaboratively create a winning political platform for President Trump (and the Republicans) in 2020.
