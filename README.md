@@ -13,7 +13,7 @@ Implementing this platform throughout 2021 for a January 2022 rollout will heal 
 
 President Trump can - and will - bring together the left and the right, the young and the old, for the good of all Americans, by simply adopting this plan; this great vision for the future of America.
 
-## New Programs Overview
+## Program Highlights
 | Program | Summary |
 | --- | --- |
 | ***Trump Universal Income*** | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
@@ -30,7 +30,7 @@ President Trump can - and will - bring together the left and the right, the youn
 
 
 
-## Platform Highlights: Economy
+## Platform Overview: Economy
 
 ### *Trump Universal Income*
 A universal basic income that ensures no Americans have to live in poverty, while rewarding those that work hard and advance in their careers with bonus income.
@@ -51,7 +51,7 @@ An extension to ***TUI***, providing life insurance coverage to named beneficiar
 > In the event of an unimaginable tragedy, families (or other named beneficiaries) will receive a payout from TUI to ensure their needs are met, and help compensate them for their loss.
 
 
-## Platform Highlights: Education
+## Platform Overview: Education
 
 ### *Trump Education Loans*
 A government backed student loan program that offers deferred payments, zero interest and full loan forgiveness after earning income in highly in-demand careers (like healthcare), as well as "critical infrastructure" and "essential service" careers, for a period of 10 years.
@@ -59,7 +59,7 @@ A government backed student loan program that offers deferred payments, zero int
 > ***Trump Education Loans*** will allow, for example, those wanting to become doctors to obtain loans to pay for tuition and expenses - while repayments (and interest) are deferred until the completion of the education program. Then, while employed in the learned career - repayments (and interest) will continue to be deferred. After 10 years of employment in the learned career - the entire loan will be forgiven, allowing many Americans, to become doctors for $0.
 
 
-## Platform Highlights: Healthcare
+## Platform Overview: Healthcare
 
 ### *Trump Universal Care*
 A *replacement* nationwide health insurance system that expands the current Medicare system while providing increased services and coverage - guaranteed to those under 18 and over 65 years of age, including prescription drugs, dental care, eye care, and preventative care services such as nutrition and exercise.
@@ -71,7 +71,7 @@ For those aged 18 to 65, ***Trump Universal Care*** is available for a fixed fee
 > Americans will only have to achieve 21 years of earned income in excess of $25,000 to receive ***TUC*** benefits free of charge, for life.
 
 
-## Platform Highlights: Preservation of Rights
+## Platform Overview: Preservation of Rights
 
 ### *Internet as a Utility*
 A nationwide requirement that every residence has access to fixed high-speed broadband access of at least 25 Mbps (symmetrical), for no more than $39 per month. Providers may offer additional tiers of service, but may not institute data-caps or throttling.
@@ -91,7 +91,7 @@ A uniform, nationwide concealed carry framework - which provides for universal b
 Creation of a nationwide, uniform purchasing and possession process to ensure access to constitutionally protected firearms, magazines and accessories to those with issued concealed carry permits.
 
 
-## Platform Highlights: Social Issues
+## Platform Overview: Social Issues
 
 ### *Trump Child Care*
 An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
@@ -119,7 +119,7 @@ Federal prohibition on late-term abortions (third trimester), in all situations 
 Creation of the ***USA Adoption Exchange*** to match parents with those mothers who have unwanted pregnancies, to help prevent abortions within the first and second trimesters. Additional ***TUI*** bonus income will be made available to mothers who will carry their unwanted pregnancy to term for adoption, instead of aborting.
 
 
-## Platform Highlights: MADE In America
+## Platform Overview: MADE In America
 
 ### *Medical Supplies*
 All equipment and disposables utilized in any medical field (including veterinary medicine) must be produced in the United States, sourced with raw materials produced in the United States. This includes, but is not limited to, all medicines, furniture, fixtures, PPE, general supplies, surgery equipment and technology that is purchased by any hospital or private medical practice.
@@ -135,7 +135,7 @@ Similar to the automobile requirements, major appliance manufacturers must follo
 Additionally, heating and air conditioning units must meet the same requirements, for both residential and commercial use.
 
 
-## Platform Highlights: Bankruptcy Reform
+## Platform Overview: Bankruptcy Reform
 
 ### *Personal Chapter 7/11/13 Bankruptcy Changes*
 Nationwide unlimited homestead protection for primary residences, including any and all payments made into the homestead more than one year before bankruptcy, and all payments derived from ***TUI***. Up to $50,000 of protection for other personal assets, including vehicles, computers, jewelry, firearms, etc.
