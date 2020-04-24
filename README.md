@@ -35,6 +35,14 @@ President Trump can - and will - bring together the left and the right, the youn
 | | |
 
 
+### Project Steps
+- [x] (April) GitHub Initial Upload / Project Overview
+- [x] (April) Major Plan Points (TUI, TUC, TPL, TEL, MADE)
+- [ ] (May) Website with Detailed Plan Pages
+- [ ] (May) FAQs
+- [ ] (May) Economic Analysis Studies
+
+
 ## Platform Overview: Economy
 
 ### *Trump Universal Income*
