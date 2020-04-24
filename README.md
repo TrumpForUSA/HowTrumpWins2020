@@ -31,6 +31,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | | |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
 | *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
+| *America's Infrastructure* | A true plan to rebuild America - with four lane interstates built for and ready to handle autonomous vehicles and 125+ mph speeds. |
 | | |
 
 
@@ -138,7 +139,7 @@ Similar to the automobile requirements, major appliance manufacturers must follo
 
 Additionally, heating and air conditioning units must meet the same requirements, for both residential and commercial use.
 
-### *Our Infrastructure*
+### *America's Infrastructure*
 Upgrade of all interstate marked highways to four (4) lanes in each direction, with the left lane reserved for 125+ mph travel through rural areas where conditions warrant. This lane will also be specially constructed for autonomous / self-driving vehicles to operate safely.
 
 > Additional highway improvements include the creation of limited access, high-speed bypasses around major cities.
