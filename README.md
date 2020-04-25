@@ -27,7 +27,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | | |
 | ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
 | | |
-| ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. Improvement of US infrastructure including Interstates with four lanes + autobahn speeds. |
+| ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. |
 | | |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
 | *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
