@@ -20,7 +20,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | [***Trump Universal Income***](Trump-Universal-Income.md) | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
 | *Equalizing The American Dream Bonus* | Up to $500 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
 | *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning employment income. |
-| ***Trump Child Care*** | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
+| [***Trump Child Care***](Trump-Child-Care.md) | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
 | ***Trump Parental Leave*** | Bonus ***TUI*** income for parents from two months before to three months after birth. |
 | | |
 | ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand (healthcare), essential services and critical infrastructure careers. |
@@ -106,7 +106,7 @@ Creation of a nationwide, uniform purchasing and possession process to ensure ac
 
 ## Platform Overview: Social Issues
 
-### *Trump Child Care*
+### [*Trump Child Care*](Trump-Child-Care.md)
 An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
 
 > Provides each child their own ***TCC*** account, available to their parents (or guardians), which receives $500 per month to be spent on eligible activities.

@@ -51,7 +51,7 @@ Americans may choose their preferred financial institutions to receive their mon
 * ***TUI*** funds may only be spent at US-based merchants, for goods and services delivered in the United States.
 * ***TUI*** funds may not be utilized to obtain cash or gift cards, and may not be used if the ultimate destination of the income is outside the United States.
 * ***TUI*** funds may not be given or gifted to others - unless the transaction is done at a US-based merchant when purchasing actual goods and services.
-* ***TUI*** funds may only accumulate for a period of six-months. Income not spent within six-months of deposit will be forfeited to a charitable organization selected at account creation.
+* ***TUI*** funds may only accumulate for a period of six months. Funds not spent within six months of deposit will be forfeited to a charitable organization selected at account creation.
 * There will be no restrictions on the types of good or services purchased at US-based merchants. Funds may be used for rent, mortgage payments, loan payments - or for any other goods or services where the merchant is willing to accept payment via debit card, subject to the general restrictions above.
 
 
