@@ -45,7 +45,7 @@ President Trump can - and will - bring together the left and the right, the youn
 
 ## Platform Overview: Economy
 
-### *Trump Universal Income*
+### [*Trump Universal Income*](Trump-Universal-Income.md)
 A universal basic income that ensures no Americans have to live in poverty, while rewarding those that work hard and advance in their careers with bonus income.
 
 > ***Trump Universal Income*** is protected from creditors, and ranges from $1,000 to $4,500 per month, per citizen - and does not disrupt or replace Social Security (or other federal government programs).
