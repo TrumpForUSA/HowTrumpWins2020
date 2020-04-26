@@ -17,7 +17,7 @@ President Trump can - and will - bring together the left and the right, the youn
 ## Trump Program Highlights
 | Program | Summary |
 | --- | --- |
-| ***Trump Universal Income*** | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
+| [***Trump Universal Income***](Trump-Universal-Income.md) | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
 | *Equalizing The American Dream Bonus* | Up to $500 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
 | *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning employment income. |
 | ***Trump Child Care*** | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
