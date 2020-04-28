@@ -1,6 +1,6 @@
 ---
 title: Trump Child Care
-description: $500 per month per child ***TUI*** type account for educational and/or recreational activities.
+description: $500 per month per child Trump Universal Income type account for educational and/or recreational activities.
 ---
 
 # Trump Child Care
