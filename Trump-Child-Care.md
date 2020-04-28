@@ -33,5 +33,3 @@ Americans may choose their preferred financial institutions to receive their chi
 * ***TCC*** funds may not be given or gifted to others - and must be spent for the benefit of the recipient child.
 * ***TCC*** funds may only accumulate for a period of three years. Funds not spent within three years of deposit will be forfeited to a charitable organization selected at account creation.
 * All ***TCC*** funds must be spent by the eligible child's 18th birthday. These funds are not designed to be used for college or other adult learning opportunities.
-
-![Eagle](/files/eagle.jpg)
