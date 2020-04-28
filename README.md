@@ -15,6 +15,7 @@ Implementing this platform throughout 2021 for a January 2022 rollout will heal 
 President Trump can - and will - bring together the left and the right, the young and the old, for the good of all Americans, by simply adopting this plan; this great vision for the future of America.
 
 ## Trump Program Highlights
+
 | Program | Summary |
 | --- | --- |
 | [***Trump Universal Income***](Trump-Universal-Income.md) | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
