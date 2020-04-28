@@ -1,3 +1,9 @@
+---
+title: Trump Universal Income
+description: Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month.
+---
+
+
 # Trump Universal Income
 Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month.
 
