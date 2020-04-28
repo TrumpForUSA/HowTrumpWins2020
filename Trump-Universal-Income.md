@@ -29,7 +29,7 @@ All US Citizens at least 18 years old are eligible for ***TUI***, and will recei
 ## Equalizing The American Dream Bonus
 Bonus ***TUI*** for Americans who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
 
-Based on residential zip code (among other factors), Americans will be eligible for up to $500 a month bonus income through ***TUI***.
+Based on residential zip code (among other factors), Americans will be eligible for up to $650 a month bonus income through ***TUI***.
 
 
 ## Rewarding Employment Bonus
@@ -62,35 +62,35 @@ Americans may choose their preferred financial institutions to receive their mon
 
 
 ## Examples
-A 24 year old American earning $33,000 a year as a flight attendant, while living in a community with above-average crime would receive a ***TUI*** benefit of $2,609 per month:
+A 24 year old American earning $33,000 a year as a flight attendant, while living in a community with above average crime would receive a ***TUI*** benefit of $2,759 per month:
 
 | Program | Available Funds  |
 | --- | --- |
-| *Trump Universal Income* | + $1,000 per month. |
-| *Rewarding Employment* | $25,000 @ 50% = $1,042 per month. |
-| *Rewarding Employment* | $8,000 @ 40% = $267 per month. |
-| *Equalizing The American Dream* | $300 per month. |
+| Trump Universal Income | + $1,000 per month. |
+| Rewarding Employment | $25,000 @ 50% = $1,042 per month. |
+| Rewarding Employment | $8,000 @ 40% = $267 per month. |
+| Equalizing The American Dream | $450 per month. |
 
-A 19 year old American earning $17,000 a year as a part-time cashier, while living in a community with below-average median-income would receive a ***TUI*** benefit of $1,958 per month:
+A 19 year old American earning $17,000 a year as a part-time cashier, while living in a community with slightly below average median income would receive a ***TUI*** benefit of $2,058 per month:
 
 | Program | Available Funds  |
 | --- | --- |
-| *Trump Universal Income* | + $1,000 per month. |
-| *Rewarding Employment* | $17,000 @ 50% = $708 per month. |
-| *Equalizing The American Dream* | $250 per month. |
+| Trump Universal Income | + $1,000 per month. |
+| Rewarding Employment | $17,000 @ 50% = $708 per month. |
+| Equalizing The American Dream | $350 per month. |
 
 A 16 year old American with a summer job earning ~ $400 per week would receive a ***TUI*** benefit of $867 per month (during income earning months):
 
 | Program | Available Funds  |
 | --- | --- |
-| *Rewarding Employment* | $20,800 @ 50% = $867 per month. |
+| Rewarding Employment | $20,800 @ 50% = $867 per month. |
 
-A 43 year old American earning $120,000 a year as an executive, while living in a community with average educational opportunities would receive a ***TUI*** benefit of $3,917 per month:
+A 43 year old American earning $120,000 a year as an executive, while living in a community with above average educational opportunities would receive a ***TUI*** benefit of $3,917 per month:
 
 | Program | Available Funds  |
 | --- | --- |
-| *Trump Universal Income* | + $1,000 per month. |
-| *Rewarding Employment* | $25,000 @ 50% = $1,042 per month. |
-| *Rewarding Employment* | $25,000 @ 40% = $833 per month. |
-| *Rewarding Employment* | $25,000 @ 30% = $625 per month. |
-| *Rewarding Employment* | $25,000 @ 20% = $417 per month. |
+| Trump Universal Income | + $1,000 per month. |
+| Rewarding Employment | $25,000 @ 50% = $1,042 per month. |
+| Rewarding Employment | $25,000 @ 40% = $833 per month. |
+| Rewarding Employment | $25,000 @ 30% = $625 per month. |
+| Rewarding Employment | $25,000 @ 20% = $417 per month. |

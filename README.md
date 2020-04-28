@@ -19,7 +19,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | Program | Summary |
 | --- | --- |
 | [***Trump Universal Income***](Trump-Universal-Income.md) | Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month. |
-| *Equalizing The American Dream Bonus* | Up to $500 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
+| *Equalizing The American Dream Bonus* | Up to $650 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
 | *Rewarding Employment Bonus* | Up to $3,000 per month bonus ***TUI*** income for those earning employment income. |
 | [***Trump Child Care***](Trump-Child-Care.md) | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
 | ***Trump Parental Leave*** | Bonus ***TUI*** income for parents from two months before to three months after birth. |
@@ -49,7 +49,7 @@ A universal basic income that ensures no Americans have to live in poverty, whil
 ### *Equalizing The American Dream Bonus*
 Bonus ***Trump Universal Income*** for Americans who reside in historically "economically challenged zones", including areas with above average crime, below average education scores and/or below average median household income.
 
-> Based on residential zip code (among other factors), Americans will be eligible for up to $500 a month bonus income through ***TUI***.
+> Based on residential zip code (among other factors), Americans will be eligible for up to $650 a month bonus income through ***TUI***.
 
 ### *Rewarding Employment Bonus*
 Bonus ***Trump Universal Income*** for Americans who are employed (including independent contractors), with an additional bonus of up to $3,000 per month based on a sliding scale up to the first $100,000 a year of earned income.
