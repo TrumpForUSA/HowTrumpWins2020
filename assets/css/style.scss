@@ -3,10 +3,7 @@
 
 @import "{{ site.theme }}";
 
-nav {
-    width: 300px;
-    }
-
-.wrapper {
-    width: 720px;
+@media screen and (min-width: 64em)
+.main-content {
+    max-width: 100rem;
 }
