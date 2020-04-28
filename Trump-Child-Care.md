@@ -1,5 +1,5 @@
 # Trump Child Care
-$500 per month per child ***TUI*** account for educational and/or recreational activities.
+$500 per month per child ***TUI*** type account for educational and/or recreational activities.
 
 
 ## Overview

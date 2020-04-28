@@ -31,7 +31,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | | |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
 | *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
-| *America's Infrastructure* | A true plan to rebuild America - with four lane interstates built for and ready to handle autonomous vehicles and 125+ mph speeds. |
+| *America's Infrastructure* | A true plan to rebuild America - with four lane interstates built for and ready to handle autonomous vehicles and 125+ mph speeds. Restrictions will also be in place to prevent foreign ownership of "critical infrastructure" providers, including the US food supply. |
 | | |
 
 
@@ -152,6 +152,7 @@ Upgrade of all interstate marked highways to four (4) lanes in each direction, w
 
 > Additional highway improvements include the creation of limited access, high-speed bypasses around major cities.
 
+Restrictions will also be in place to prevent foreign ownership of "critical infrastructure" providers, including the US food supply.
 
 ## Platform Overview: Bankruptcy Reform
 
