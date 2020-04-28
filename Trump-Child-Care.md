@@ -8,7 +8,7 @@ $500 per month per child ***TUI*** type account for educational and/or recreatio
 
 
 ## Overview
-An enhancement to TUI, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own TCC will ensure a childhood of enhanced learning and opportunities.
+An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
 
 
 ## Why?
