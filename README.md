@@ -24,7 +24,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | [***Trump Child Care***](Trump-Child-Care.md) | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
 | ***Trump Parental Leave*** | Bonus ***TUI*** income for parents from two months before to three months after birth. |
 | ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand (healthcare), essential services and critical infrastructure careers. |
-| ***Trump Universal Care*** | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
+| [***Trump Universal Care***](Trump-Universal-Care.md) | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
 | ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. |
 | *Internet Access as a Utility* | Every residential household must have access to at least 25 Mbps symmetrical service for no more than $39 per month, while wireless carriers must offer unlimited ***4G*** data plans for no more than $59 per month for 250 GB of non-throttled data.  |
 | *2nd Amendment* | Nationwide concealed carry and passage framework with universal background checks, fingerprinting and mandatory training with an insurance requirement. |
@@ -70,7 +70,7 @@ A government backed student loan program that offers deferred payments, zero int
 
 ## Platform Overview: Healthcare
 
-### *Trump Universal Care*
+### [*Trump Universal Care*](Trump-Universal-Care.md)
 A *replacement* nationwide health insurance system that expands the current Medicare system while providing increased services and coverage - guaranteed to those under 18 and over 65 years of age, including prescription drugs, dental care, eye care, and preventative care services such as nutrition and exercise.
 
 > Additionally, ***Trump Universal Care*** waves most deductibles and copays that are currently part of the Medicare system.
