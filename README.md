@@ -157,7 +157,8 @@ Nationwide unlimited homestead protection for primary residences, including any 
 
 > Homestead exemption will also allow lived-in primary residences owned by LLCs or multiple family members to be exempted from bankruptcy.
 
-Chapter 13 estates will not include any ***TUI*** benefits, including any bonus income.
+Chapter 13 (and personal 11) estates will not include any ***TUI*** benefits. While employment income is part of the estate - bonus ***TUI*** due to employment earnings is not.
+
 
 ## Current Project License
 [Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md)
