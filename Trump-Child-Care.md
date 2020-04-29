@@ -1,18 +1,22 @@
 ---
-title: Trump Child Care
-description: $500 per month per child Trump Universal Income type account for educational and/or recreational activities.
+title: Trump Parental Leave
+description: Additional bonus TUI income for parents from two months before to three months after birth.
 ---
 
-# Trump Child Care
-$500 per month per child ***TUI*** type account for educational and/or recreational activities.
+# Trump Parental Leave
+Additional bonus TUI income for parents from two months before to three months after birth.
 
 
 ## Overview
-An enhancement to ***TUI***, providing additional funds, per child, to be utilized only at certain locations, such as: child care facilities, learning centers, sports and recreation providers. Each child born with their own ***TCC*** will ensure a childhood of enhanced learning and opportunities.
+An enhancement to ***TUI***, providing bonus ***TUI*** income for a period of three months after the birth (or adoption) of a child, and two months before the birth of a child, in an amount equal to the average monthly bonus employment income for the previous 12 month period.
+
+Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of six months after the birth of a child.
 
 
 ## Why?
 Raising children is a rewarding experience - but one that can take a serious toll when balance work / family life. ***TCC*** ensures that every child has an abundance of educational and recreational activities throughout their childhood, regardless of their parent's financial ability to pay.
+
+
 
 
 ## Eligibility

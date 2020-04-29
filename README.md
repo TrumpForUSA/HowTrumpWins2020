@@ -22,7 +22,7 @@ President Trump can - and will - bring together the left and the right, the youn
 | *Equalizing The American Dream Bonus* | Up to $650 per month bonus ***TUI*** income for those residing in communities with above average crime, below average education opportunities and/or below average median household income. |
 | *Rewarding Employment Bonus* | Up to $2,188 per month bonus ***TUI*** income for those earning employment income. |
 | [***Trump Child Care***](Trump-Child-Care.md) | $500 per month per child ***TUI*** account for educational and/or recreational activities. |
-| ***Trump Parental Leave*** | Bonus ***TUI*** income for parents from two months before to three months after birth. |
+| [***Trump Parental Leave***](Trump-Parental-Leave.md) | Bonus ***TUI*** income for parents from two months before to three months after birth. |
 | ***Trump Education Loans*** | Deferred payments, zero interest and full loan forgiveness for in-demand (healthcare), essential services and critical infrastructure careers. |
 | [***Trump Universal Care***](Trump-Universal-Care.md) | Expands and enhances Medicare coverage for all US Citizens, including dental and vision benefits. |
 | ***MADE In America*** | Requiring 100% of medical supplies and equipment to be manufactured in the US, with additional requirements on other goods such as automobiles, major appliances, etc. |
@@ -107,10 +107,10 @@ An enhancement to ***TUI***, providing additional funds, per child, to be utiliz
 
 > Provides each child their own ***TCC*** account, available to their parents (or guardians), which receives $500 per month to be spent on eligible activities.
 
-### *Trump Parental Leave*
-Provides bonus ***TUI*** income for a period of three months after the birth (or adoption) of a child, and two months before the birth of a child, in an amount equal to the average monthly employment income for the previous 12 month period.
+### [*Trump Parental Leave*](Trump-Parental-Leave.md)
+Provides bonus ***TUI*** income for a period of six months after the birth (or adoption) of a child, and three months before the birth of a child, in an amount equal to the average monthly employment income for the previous 12 month period.
 
-> Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of six months after the birth of a child.
+> Both parents are eligible to receive ***TPL*** funds, while single parents will be eligible for an extended period of twelve months after the birth of a child.
 
 ### *Disaster Preparedness - USA READY*
 A federal program requiring citizens and the government work together to ensure the nation is ready to handle any crisis. Individual households will be required to keep a 60 day supply of shelf-stable food (and basic supplies such as toilet paper and medicine) for all occupants, in addition to 100 gallons of potable water.
