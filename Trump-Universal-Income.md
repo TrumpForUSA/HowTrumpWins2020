@@ -5,13 +5,13 @@ description: Creditor-protected universal income for all US Citizens, starting a
 
 
 # Trump Universal Income
-Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $4,500 per month.
+Creditor-protected universal income for all US Citizens, starting at $1,000 and maxing out at $3,800 per month.
 
 
 ## Overview
 A universal basic income that ensures no Americans have to live in poverty, while rewarding those that work hard and advance in their careers with bonus income.
 
-Trump Universal Income is protected from creditors, and ranges from $1,000 to $4,500 per month, per citizen - and does not disrupt or replace Social Security (or other federal government programs).
+Trump Universal Income is protected from creditors, and ranges from $1,000 to $3,800 per month, per citizen - and does not disrupt or replace Social Security (or other federal government programs).
 
 
 ## Why?
@@ -33,14 +33,13 @@ Based on residential zip code (among other factors), Americans will be eligible 
 
 
 ## Rewarding Employment Bonus
-Bonus Trump Universal Income for Americans who are employed (including independent contractors), with an additional bonus based on a sliding scale up to the first $100,000 a year of earned income. Employment bonus is available to those aged 13 and above.
+Bonus Trump Universal Income for Americans who are employed (including independent contractors), with an additional bonus based on a sliding scale up to the first $75,000 a year of earned income. Employment bonus is available to those aged 13 and above.
 
 | Yearly Earned Income | Bonus TUI | Maximum Bonus
 | --- | --- | --- |
 | $0 - $25,000 | 50% of earned income | + $12,500 |
-| $25,001 - $50,000 | 40% of earned income | + $10,000 |
-| $50,001 - $75,000 | 30% of earned income | + $7,500 |
-| $75,001 - $100,000 | 20% of earned income | + $5,000 |
+| $25,001 - $50,000 | 35% of earned income | + $8,750 |
+| $50,001 - $75,000 | 20% of earned income | + $5,000 |
 
 
 ## Taxes
@@ -62,13 +61,13 @@ Americans may choose their preferred financial institutions to receive their mon
 
 
 ## Examples
-A 24 year old American earning $33,000 a year as a flight attendant, while living in a community with above average crime would receive a ***TUI*** benefit of $2,759 per month:
+A 24 year old American earning $33,000 a year as a flight attendant, while living in a community with above average crime would receive a ***TUI*** benefit of $2,725 per month:
 
 | Program | Available Funds  |
 | --- | --- |
 | Trump Universal Income | + $1,000 per month. |
 | Rewarding Employment | $25,000 @ 50% = $1,042 per month. |
-| Rewarding Employment | $8,000 @ 40% = $267 per month. |
+| Rewarding Employment | $8,000 @ 35% = $233 per month. |
 | Equalizing The American Dream | $450 per month. |
 
 A 19 year old American earning $17,000 a year as a part-time cashier, while living in a community with slightly below average median income would receive a ***TUI*** benefit of $2,058 per month:
@@ -85,12 +84,11 @@ A 16 year old American with a summer job earning ~ $400 per week would receive a
 | --- | --- |
 | Rewarding Employment | $20,800 @ 50% = $867 per month. |
 
-A 43 year old American earning $120,000 a year as an executive, while living in a community with above average educational opportunities would receive a ***TUI*** benefit of $3,917 per month:
+A 43 year old American earning $120,000 a year as an executive, while living in a community with above average educational opportunities would receive a ***TUI*** benefit of $3,188 per month:
 
 | Program | Available Funds  |
 | --- | --- |
 | Trump Universal Income | + $1,000 per month. |
 | Rewarding Employment | $25,000 @ 50% = $1,042 per month. |
-| Rewarding Employment | $25,000 @ 40% = $833 per month. |
-| Rewarding Employment | $25,000 @ 30% = $625 per month. |
+| Rewarding Employment | $25,000 @ 35% = $729 per month. |
 | Rewarding Employment | $25,000 @ 20% = $417 per month. |
