@@ -75,7 +75,7 @@ A *replacement* nationwide health insurance system that expands the current Medi
 
 > Additionally, ***Trump Universal Care*** waves most deductibles and copays that are currently part of the Medicare system.
 
-For those aged 18 to 65, ***Trump Universal Care*** is available for a fixed fee depending on age, and will provide the same coverage benefits. However, children turning 18 will receive five years worth of ***TUC*** coverage free of charge, to be used anytime until 65. Additionally, for each year of earned income in excess of $25,000 provides an additional two years of ***TUC*** coverage free of charge.
+For those aged 18 to 65, ***Trump Universal Care*** is available for a fixed fee depending on age, and will provide the same coverage benefits. However, children turning 18 will receive five years worth of ***TUC*** coverage free of charge, to be used anytime until 65. Each year of earned income in excess of $20,000 provides an additional two years of ***TUC*** coverage free of charge.
 
 > Americans will only have to achieve 21 years of earned income in excess of $25,000 to receive ***TUC*** benefits free of charge, for life.
 
