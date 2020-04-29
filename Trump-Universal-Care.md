@@ -15,7 +15,7 @@ Additionally, ***TUC*** waves most deductibles and copays that are currently par
 
 For those aged 18 to 64, ***Trump Universal Care*** is available for a fixed fee depending on age, and will provide the same coverage benefits. However, children turning 18 will receive five years worth of ***TUC*** coverage free of charge, to be used anytime until 65. Each year of earned income, in excess of $20,000, provides an additional two years of TUC coverage free of charge.
 
-Americans that achieve 21 years of earned income in excess of $20,000 will receive ***TUC*** benefits for life, free of charge.
+> Americans that achieve 21 years of earned income in excess of $20,000 will receive ***TUC*** benefits for life, free of charge.
 
 
 ## Why?
