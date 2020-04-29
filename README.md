@@ -39,6 +39,9 @@ President Trump can - and will - bring together the left and the right, the youn
 - [ ] (May) Economic Analysis Studies
 
 
+### How To Help
+Find out more about us - about our platform and movement - and how you can help, by clicking here: [How To Help](How-To-Help.md)
+
 ## Platform Overview: Economy
 
 ### [*Trump Universal Income*](Trump-Universal-Income.md)
