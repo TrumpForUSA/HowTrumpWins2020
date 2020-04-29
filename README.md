@@ -117,7 +117,7 @@ A federal program requiring citizens and the government work together to ensure 
 
 > ***TUC*** will provide for longer prescription medication refills to ensure an adequate supply is always on hand for emergencies.
 
-Additional requirements will be in place for critical infrastructure and medical providers, including a 60 day supply of medically necessary equipment to better preapre for and handle disasters and other emergencies.
+Additional requirements will be in place for critical infrastructure and medical providers, including a 60 day supply of medically necessary equipment to better prepare for and handle disasters and other emergencies.
 
 ### *War On Drugs*
 Legalize marijuana while fighting the remaining war on drugs armed with additional tools, including the powerful ability to limit or disqualify individuals for ***TUI*** with felony convictions.
