@@ -7,7 +7,9 @@ description: Welcome to our collaborative project, hosted at GitHub, to create a
 # How To Help
 **Together we can WIN 2020 for THE PEOPLE!**
 
-Welcome to our collaborative project, hosted at GitHub, to create and have Trump and the GOP adopt this winning platform for 2020 - so that THE PEOPLE win.
+Welcome to our collaborative project, hosted at GitHub, to create and have President Trump and the GOP adopt this winning platform for 2020 - so that THE PEOPLE win.
+
+While ambitious, if everything goes to plan President Trump will be signing all of our platform policies into law by February, 2021!
 
 
 ## Email
