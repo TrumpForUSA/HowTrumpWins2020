@@ -33,7 +33,7 @@ For those that plan on being a single parent (either one parent on the birth cer
 For those adopting children under the age of 18, ***TPL*** eligibility will begin once the adoption has been finalized for a period of six months, or for a period of twelve months in the case of a single parent.
 
 ### USA Adoption Exchange
-Mothers with an unwanted pregnancy that have decided to utilize the ***USA Adoption Exchange***, instead of aborting their baby in the first or second trimester, will be eligible to receive ***TPL*** income six months before the due date, which will continue until six months after the due date.
+Mothers with an unwanted pregnancy that have decided to utilize the ***USA Adoption Exchange***, instead of aborting their baby in the first or second trimester, will be eligible to receive ***TPL*** income six months before the due date, which will continue until three months after the due date. Mothers without any regular bonus income who are under 21 years old will be eligible for a special $650 a month ***TPL*** bonus during this nine month period.
 
 ### Multiples
 While parents of multiples will receive a separate ***TCC*** account for each child - ***TPL*** benefits will remain the same.
