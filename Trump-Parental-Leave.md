@@ -16,7 +16,7 @@ Both parents are eligible to receive ***TPL*** funds, while single parents will 
 ## Why?
 While ***Trump Child Care*** ensures children at all life stages experience rewarding educational and recreational experienced, ***Trump Parental Leave*** ensures that parents receive the funds necessary to settle in with their new child, and adapt to their new family situation in life.
 
-While some parents may continue working right up until birth - others may have to take an extended leave of absence. ***TPL*** helps ensure all parents remain financially stable as they add another child to their family.
+While some parents may continue working right up until birth - others may have to take an extended leave of absence. ***TPL*** helps ensure all parents remain financially stable as they add a child to their family.
 
 
 ## Eligibility
@@ -26,6 +26,8 @@ Once the pregnant woman's due date has been established, both listed parents (ma
 
 ### Expected Single Parents - Pregnancy
 For those that plan on being a single parent (either one parent on the birth certificate, or a second parent that doesn't plan on being involved in raising the child), ***TPL*** eligibility will begin six months before the due date, which will continue until twelve months after the due date.
+
+> In all cases, the pregnant mother will make the decision on the eligibility of a parent.
 
 ### Adoptions
 For those adopting children under the age of 18, ***TPL*** eligibility will begin once the adoption has been finalized for a period of six months, or for a period of twelve months in the case of a single parent.
